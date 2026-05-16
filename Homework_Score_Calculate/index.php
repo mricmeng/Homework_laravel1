@@ -49,7 +49,7 @@
     <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
       <div class="row align-items-center mb-3">
         <div class="col-sm-3">
-          <label>Input Score1:</label>
+          <label>Input Score គណិតវិទ្យា:</label>
         </div>
         <div class="col-sm-7">
           <input type="number" step="0.01" class="form-control" name="score1" value="<?php echo $score1; ?>" required>
@@ -57,7 +57,7 @@
       </div>
       <div class="row align-items-center mb-3">
         <div class="col-sm-3">
-          <label>Input Score2:</label>
+          <label>Input Score​ ភាសាខ្មែរ:</label>
         </div>
         <div class="col-sm-7">
           <input type="number" step="0.01" class="form-control" name="score2" value="<?php echo $score2; ?>" required>
@@ -65,7 +65,7 @@
       </div>
       <div class="row align-items-center mb-3">
         <div class="col-sm-3">
-          <label>Input Score3:</label>
+          <label>Input Score​ ភាសាអង់គ្លេស:</label>
         </div>
         <div class="col-sm-7">
           <input type="number" step="0.01" class="form-control" name="score3" value="<?php echo $score3; ?>" required>
@@ -73,7 +73,7 @@
       </div>
       <div class="row align-items-center mb-3">
         <div class="col-sm-3">
-          <label>Input Score4:</label>
+          <label>Input Score គីមីវិទ្យា:</label>
         </div>
         <div class="col-sm-7">
           <input type="number" step="0.01" class="form-control" name="score4" value="<?php echo $score4; ?>" required>
@@ -81,7 +81,7 @@
       </div>
       <div class="row align-items-center mb-3">
         <div class="col-sm-3">
-          <label>Input Score5:</label>
+          <label>Input Score រូបវិទ្យា:</label>
         </div>
         <div class="col-sm-7">
           <input type="number" step="0.01" class="form-control" name="score5" value="<?php echo $score5; ?>" required>
