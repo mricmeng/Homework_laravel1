@@ -12,7 +12,7 @@
     </script>
 </head>
 
-<body>
+<body class="bg-dark-subtle">
     <?php
     // ចាប់ដំណើរការទិន្នន័យពេលsubmit
     $code = $name = $qty = $price = $total = $payment = "?";
@@ -118,7 +118,7 @@
             </table>
         </div>
     </div>
-    <!-- Answere for Ai thank you  -->
+    <!-- Answere from Ai thank you  -->
 </body>
 
 </html>
