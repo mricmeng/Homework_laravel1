@@ -112,7 +112,7 @@
                         <td><?php echo $qty; ?></td>
                         <td><?php echo $price; ?></td>
                         <td><?php echo $total; ?></td>
-                        <td><?php echo $payment; ?></td>
+                        <td class="fw-bold text-primary"><?php echo $payment; ?></td>
                     </tr>
                 </tbody>
             </table>
